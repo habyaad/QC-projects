@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Qiskit Project
 
 A quantum computing project built with [Qiskit](https://ibm.com).
@@ -18,8 +17,5 @@ A quantum computing project built with [Qiskit](https://ibm.com).
 
 ## Usage
 
-Run the main quantum circuit script:
-```bash
-python main.py
-```
-EOF
+Open the notebook(s) and run the cells sequentially (`Shift + Enter`) to build the quantum circuits, simulate the statevectors, and render the Bloch sphere and circuit visualizations.
+
